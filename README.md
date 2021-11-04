@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EatWithoutSleep
 - 👀 I’m interested in programming and coding
 - 🌱 I’m currently learning pyhton and C++
-- 💞️ I’m looking to collaborate on humans :0
+- 💞️ I’m looking to collaborate with humans :0
 - 📫 How to reach me?
 
 <!---
